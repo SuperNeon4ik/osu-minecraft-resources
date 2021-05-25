@@ -1,0 +1,49 @@
+{
+	"osu.music.overtime": {
+		"sounds": ["custom/music/overtime"]
+	},
+	"osu.music.pika-girl": {
+		"sounds": ["custom/music/pika-girl"]
+	},
+	"osu.music.galaxy-collapse": {
+		"sounds": ["custom/music/galaxy-collapse"]
+	},
+	"osu.music.knifeparty-centipede": {
+		"sounds": ["custom/music/knifeparty-centipede"]
+	},
+	"osu.music.yooh-marianne": {
+		"sounds": ["custom/music/yooh-marianne"]
+	},
+	"osu.music.sound-chimera": {
+		"sounds": ["custom/music/sound-chimera"]
+	},
+	"osu.music.river": {
+		"sounds": ["custom/music/river"]
+	},
+
+	"osu.sfx.applause": {
+		"sounds": ["custom/sfx/applause"]
+	},
+	"osu.sfx.buttonclick": {
+		"sounds": ["custom/sfx/button-click"]	
+	},
+	"osu.sfx.combobreak": {
+		"sounds": ["custom/sfx/combobreak"]
+	},
+	"osu.sfx.hit.default": {
+		"sounds": ["custom/sfx/soft-hitnormal"]
+	},
+	"osu.sfx.section.pass": {
+		"sounds": ["custom/sfx/sectionpass"]
+	},
+	"osu.sfx.section.fail": {
+		"sounds": ["custom/sfx/sectionfail"]
+	},
+	"osu.sfx.game.start": {
+		"sounds": ["custom/sfx/match-start"]
+	},
+
+	"entity.item_frame.add_item": {
+		"sounds": [""]
+	}
+}
